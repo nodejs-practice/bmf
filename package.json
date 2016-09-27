@@ -1,0 +1,23 @@
+{
+  "name": "bmf",
+  "version": "1.0.0",
+  "description": "bmf project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-practice/bmf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejs-practice/bmf/issues"
+  },
+  "homepage": "https://github.com/nodejs-practice/bmf#readme",
+  "dependencies": {
+    "download": "^5.0.2",
+    "express": "^4.14.0"
+  }
+}
